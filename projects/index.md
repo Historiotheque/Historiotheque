@@ -8,13 +8,13 @@ everything else lives as a directory under this repo's `projects/` folder.*
 |---|---|---|
 | [Historiotheque](../../) | Operation root: official documents, specs, schemas, master bibliography, this index | active |
 | Refcards | Universal atomic knowledge cards | active |
-| design-concepts | Novel design concepts, one file per concept | planned |
-| crossrefs | Maps and indexes between everything (transfer from personal account) | planned |
-| refmats | Reference materials (transfer from personal account) | planned |
-| coursemats | Course materials, the teaching leg (transfer from personal account) | planned |
-| works | Artwork catalog: metadata + web images, masters on the Internet Archive | planned |
-| novels | The Experimental Novel: novels, novellas, novelistic phenomenologies | planned |
-| chronotopium-series | Chronotopium paintings and the Chronotopium novel | planned |
-| schizobot | Schizobot and Schizobot Lite | planned |
+| DesignConcepts | Novel design concepts, one file per concept | Active |
+| Crossrefs | Maps and indexes between everything (transfer from personal account) | planned |
+| Refmats | Reference materials (transfer from personal account) | planned |
+| Coursemats | Course materials, the teaching leg (transfer from personal account) | planned |
+| Works | Artwork catalog: metadata + web images, masters on the Internet Archive | planned |
+| Novels | The Experimental Novel: novels, novellas, novelistic phenomenologies | planned |
+| ChronotopiumSeries | Chronotopium paintings and the Chronotopium novel | planned |
+| Schizobot | Schizobot and Schizobot Lite | planned |
 
 *Flip a row from `planned` to `active` when its repo is created.*
