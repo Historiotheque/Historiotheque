@@ -12,7 +12,7 @@ everything else lives as a directory under this repo's `projects/` folder.*
 | Crossrefs | Maps and indexes between everything (transfer from personal account) | planned |
 | Refmats | Reference materials (transfer from personal account) | planned |
 | Coursemats | Course materials, the teaching leg (transfer from personal account) | planned |
-| Works | Artwork catalog: metadata + web images, masters on the Internet Archive | planned |
+| Works | Artwork catalog: metadata + web images, masters on the Internet Archive | active |
 | Novels | The Experimental Novel: novels, novellas, novelistic phenomenologies | planned |
 | ChronotopiumSeries | Chronotopium paintings and the Chronotopium novel | planned |
 | Schizobot | Schizobot and Schizobot Lite | planned |
