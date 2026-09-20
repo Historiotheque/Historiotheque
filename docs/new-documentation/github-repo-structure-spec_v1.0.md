@@ -26,7 +26,7 @@ page — the front door and the master index in one repo (the same convention as
 `antiface/antiface` on the personal account). This keeps the repo count minimal.
 
 ```
-the-historiotheque/
+historiotheque/
 ├── README.md                  # what the Historiotheque is; map of the whole system
 ├── BIBLIOGRAPHY.md            # master bibliography (superset / index of project ones)
 ├── studio-logs/               # cross-project and operation-level sessions
@@ -127,7 +127,7 @@ by reference, not by duplication.
 
 ## 6. Seeding order (what to build first)
 
-1. `the-historiotheque` root with `docs/` and this spec — the map before the territory.
+1. `historiotheque` root with `docs/` and this spec — the map before the territory.
 2. The Refcards repo (name TBD — see §3) with the format and the first cards (start with the named theories:
    historiotherapeusis, novelistic phenomenology, the Archives-Project philosophies).
 3. One project repo as the template exemplar (the Chronotopium or Solitude and Death).
