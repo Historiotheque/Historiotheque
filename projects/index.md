@@ -7,7 +7,7 @@ everything else lives as a directory under this repo's `projects/` folder.*
 | Repo | Purpose | Status |
 |---|---|---|
 | [Historiotheque](../../) | Operation root: official documents, specs, schemas, master bibliography, this index | active |
-| refcard-system | Universal atomic knowledge cards (name to be confirmed) | planned |
+| Refcards | Universal atomic knowledge cards | active |
 | design-concepts | Novel design concepts, one file per concept | planned |
 | crossrefs | Maps and indexes between everything (transfer from personal account) | planned |
 | refmats | Reference materials (transfer from personal account) | planned |
