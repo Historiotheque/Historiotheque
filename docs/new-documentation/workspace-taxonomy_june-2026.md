@@ -9,8 +9,7 @@ status: reference
 # Historiotheque Workspace Taxonomy — June 2026
 
 *Annotated taxonomy of subjects in the June 2026 log notes (A.G.). This is a
-**finding aid** — an index to the log, not a concept. For the concepts themselves,
-see the DesignConcepts repository and the Refcards repository.*
+**finding aid** — an index to the log, not a concept. For the concepts themselves, see the [DesignConcepts](https://github.com/Historiotheque/DesignConcepts) repository and the [Refcards](https://github.com/Historiotheque/Refcards) repository.
 
 The source is a dense, timestamped personal research-and-practice log spanning
 early-to-mid June 2026. It functions simultaneously as daily activity record,
