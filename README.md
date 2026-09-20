@@ -1,29 +1,29 @@
 The art operation of A.G. — an art studio, sound design lab, and research practice treated as cultural software. Documented in the light since 2001.
 
-# The Historiotheque
+# Historiotheque
 
----
+The operation root of the Historiotheque — the art operation of interdisciplinary
+artist-researcher A.G. (Alex Gagnon), treated as cultural software.
 
-The Historiotheque is the art operation of interdisciplinary artist-researcher A.G.
-(Alex Gagnon) — an art studio, sound design laboratory, and research practice treated
-as cultural software, developed over thirty years of work across images, sounds, and texts.
+## What this repo is
 
-This repository is the operation's root: its public map and front door. It hosts the
-official documents of the practice — the Official Declarations of Production-Year
-(forward-looking statements for stakeholders), the Official Releases of the Historiotheque
-(the studio versioned like software, with semantic versioning), PROSPECTIVEs,
-RETROSPECTIVEs — alongside the specifications that govern the documentation itself:
-The New Documentation, the studio log format, the Refcard system, the repository
-architecture, and the artwork archive plan.
+The map of the whole operation: the official documents, the specifications that govern
+the documentation itself, the schemas, the master bibliography, the cross-project
+studio logs, and the index of every repository in the organization.
 
-The practice is documented in the light: open-source, continuously logged, and
-reproducible. Every experiment — from a field recording of atmospheric tone to a novel's
-design concept — is logged, cross-referenced, and archived across this organization's
-repositories: refcards, design concepts, cross-references, reference and course materials,
-and the works catalog, with full-resolution masters preserved on the Internet Archive
-and citable releases on Zenodo.
+## Contents
 
-Enter through the projects index, or start with the latest Official Declaration.
+- `docs/declarations/` — Official Declarations of Production-Year (forward-looking)
+- `docs/releases/` — Official Releases of the Historiotheque (semantic versioning)
+- `docs/prospectives/` — PROSPECTIVEs
+- `docs/retrospectives/` — RETROSPECTIVEs
+- `docs/new-documentation/` — the specs: studio log format, repo structure, design
+  concepts, research questions, artwork archive plan
+- `schemas/` — the work schemas and taxonomies
+- `projects/` — the index of every repo in the organization (`projects/index.md`)
+- `studio-logs/` — cross-project studio logs
+- `workflows/` — automation and procedures
+- `BIBLIOGRAPHY.md` — the master bibliography (Chicago 17th, author-date)
 
 - - - - - - -
 
