@@ -71,7 +71,7 @@ This *Official Declaration of Production-Year, 2028–2029* will be short at fir
 
 With that being said, here is a recent video on workspace theory, which I have been working to formalize as much as possible especially in the last week or so.
 
-https://www.youtube.com/watch?v=4LQfyLV0EZg
+[![WHAT IS THE DELTA-WORKSPACE THEORY? (May 11, 2026)](https://historiotheque.wordpress.com/wp-content/uploads/2026/09/thumbnail_workspace-theory_001.jpg)](https://www.youtube.com/watch?v=4LQfyLV0EZg)
 
 ## In Guise of a Conclusion
 
@@ -81,7 +81,7 @@ More of what I've been trying to do, with mixed results, but these are all thing
 - I'm still trying to apply concepts from theoretical computer science and programming to running a mature *Art Operation* such as the one I'm running at *The Historiotheque.* That means concepts like *continuous discovery, separation of concerns, even what a relational database might look like in an art and research practice.*
 - As I said above, I've been thinking a lot about the workspace, developing my own unique "**w*****orkspace theory".*** Here is another video on the subject of sanctity in the workspace this time. Forgive me if I appear a little disheveled these days, I've just been working very hard:
 
-https://www.youtube.com/watch?v=wrg0OisGQN8
+[![SANCTITY IN THE WORKSPACE (May 14, 2026)](https://historiotheque.wordpress.com/wp-content/uploads/2026/09/thumbnail_sanctity_workspace_002.jpg)]([VIDEO_URL](https://www.youtube.com/watch?v=wrg0OisGQN8))
 
 - These *Official Declarations* are an integral part of my magnum opus, which is like the *Project of All Project*, what I mentioned above, *The Painter's Almanach.* It all always comes back to that. That's the *Big Picture,* and it stems from the concept of interlocking calendrical systems. In essence, it involves a careful curation of what are the most relevant subjects, concepts, themes, images, sounds, texts, etc., for any given time of the year. It isn't just a single publication, though, like an actual book, but a virtual one that permits me to have the *Almanach* running 365 days per year.
 - I'm working on a work of music about the Old Village where I've lived for the last 10 years, called *Symphonie du Vieux Village*. This is also modeled after an ongoing *Art Operation*, something running 24/7 on YouTube and other platforms. The videos and images and sounds are essentially *archives* on these platforms that people can visit anytime they like, and the work itself exists conceptually as *instances* of when and where people access them. I know this is a mouthful, but it will all make sense eventually when you dig deeper into my work. That being said, I know my work requires a deep dive and a high level of engagement that not everyone has the time or patience to give my work, I undestand. I don't take it seriously. ***These cultural goods do not require being consumed by people to exist and to make their statement.***
@@ -89,7 +89,7 @@ https://www.youtube.com/watch?v=wrg0OisGQN8
 - Lastly, I have begun making videos that I'm putting on YouTube. I made hundreds of videos over the years, all on YouTube except I've made the irrelevant ones private. I have talked about so many subjects, signal science, human behavioral ecology, information behavior, all so many of these things I call "*discourses*". 17 years ago, on YouTube, I invented a style of discourse I called **EXTREME PHILOSOPHY** (now being referred to as "***XPHIL"***) where I took video selfies of myself walking and talking about philosophical topics off the top of my head. I envisioned it as someone walking in the Far North, across treacherous terrain in the wilderness there, and sending home these *Reports* on the conditions there or what have you. *I am in the process of rehashing this project and will be saying more about it sooner than later, definitely before 2028–2029.*
 - I've also been publishing my ***Morning Constitutionals*** in various formats. You can find them on my antisignal account on [Threads](https://www.threads.com/@antisignal) and on [Bluesky](https://bsky.app/profile/antisignal.bsky.social). Here is one last video from yesterday this time, about my *Art Operation.* I thank you with all my heart if you have made it this far. You are my primary stakeholder. We will change the world together, as we build ***The New Cathedral*** (with what I like to call a "*holy ambition"*)*:*
 
-https://www.youtube.com/watch?v=1DRx7qdLviQ
+[![A DAY IN THE LIFE OF THE ART OPERATION (May 17, 2026)](https://historiotheque.wordpress.com/wp-content/uploads/2026/09/thumbnail_day_in_life_art_operation_003.jpg)]([VIDEO_URL](https://www.youtube.com/watch?v=1DRx7qdLviQ))
 
 *Sincerely,*
 
