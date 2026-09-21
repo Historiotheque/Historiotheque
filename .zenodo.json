@@ -1,0 +1,17 @@
+{
+  "creators": [
+    {
+      "name": "Gagnon, Alex"
+    }
+  ],
+  "description": "The operation root and master index of the Historiotheque — an interdisciplinary art-research practice and archive maintained as cultural software. Official documents, specifications, schemas, projects index, workflows, and master bibliography.",
+  "keywords": [
+    "art-research",
+    "archive",
+    "documentation",
+    "cultural software",
+    "historiotheque"
+  ],
+  "license": "other-closed",
+  "title": "Historiotheque/Historiotheque"
+}
