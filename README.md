@@ -2,7 +2,7 @@ The art operation of A.G. — an art studio, sound design lab, and research prac
 
 # Historiotheque
 
-[!DOI](https://doi.org/10.5281/zenodo.22866788)
+[![DOI](https://zenodo.org/badge/1378701327.svg)](https://doi.org/10.5281/zenodo.22866788)
 
 The operation root of the Historiotheque — the art operation of interdisciplinary
 artist-researcher A.G. (Alex Gagnon), treated as cultural software.
