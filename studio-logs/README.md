@@ -29,6 +29,8 @@ a provenance note and approximate timestamps.
 
 | File | Date | Session |
 |---|---|---|
+| `2026-09-23-1747-cubism-art-operation-video-discourse.md` | 2026-09-23 | 26-min video discourse: Cubism as an Art Operation — what the records show and don't; Picasso/Braque procedures undocumented; software-dev logging best practices imported; the independent-researcher's publication paradox |
+| `2026-09-23-1400-video-discourses-treasure-open-source-artist.md` | 2026-09-23 | Two walk-and-talk video discourses (Picasso/Braque procedures undocumented; the "Treasure" archive analogy; Open Source Artist coinage); first published to Instagram as a Reel |
 | `2026-09-23-1000-logging-infrastructure-goes-live.md` | 2026-09-23 | Logging infrastructure goes live on GitHub: 6 refcards uploaded, index.md rows added, studio-logs batch uploaded, spec placed, dead link fixed, upload protocol established |
 | `2026-09-23-0830-art-ops-ecosystem-documentability.md` | 2026-09-23 | RQ-2026-014→017, ArtOps Ecosystem doc, Picasso/Warhol documentation comparison, non-monotonic documentability thesis, 12-folder Research registry snapshot |
 | `2026-09-23-0130-cubism-studies-pdf-readthrough.md` | 2026-09-23 | Cubism Studies PDF (2002–2003 notes) read-through; structure mapped; gleanables cataloged per instrument; 2002–2003 "Metaphysic of Art Movements" provenance finding |
