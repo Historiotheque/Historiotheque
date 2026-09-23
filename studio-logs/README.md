@@ -6,7 +6,7 @@ live in that project's own `studio-logs/` (e.g. `WhatIsCubism/studio-logs/`).
 
 ## Spec
 
-Format follows [studio-log-spec_v1.0.md](https://github.com/Historiotheque/Historiotheque/blob/main/docs/new-documentation/studio-log-spec_v1.0.md): one file per
+Format follows [studio-log-spec_v1.0.md](../docs/new-documentation/studio-log-spec_v1.0.md): one file per
 session, named `YYYY-MM-DD-HHMM-<slug>.md` (24h local time), YAML frontmatter,
 fixed section order. `Decisions` and `Next actions` are mandatory — a session with
 no decisions recorded is a session not yet understood.
@@ -29,6 +29,7 @@ a provenance note and approximate timestamps.
 
 | File | Date | Session |
 |---|---|---|
+| `2026-09-23-1000-logging-infrastructure-goes-live.md` | 2026-09-23 | Logging infrastructure goes live on GitHub: 6 refcards uploaded, index.md rows added, studio-logs batch uploaded, spec placed, dead link fixed, upload protocol established |
 | `2026-09-23-0830-art-ops-ecosystem-documentability.md` | 2026-09-23 | RQ-2026-014→017, ArtOps Ecosystem doc, Picasso/Warhol documentation comparison, non-monotonic documentability thesis, 12-folder Research registry snapshot |
 | `2026-09-23-0130-cubism-studies-pdf-readthrough.md` | 2026-09-23 | Cubism Studies PDF (2002–2003 notes) read-through; structure mapped; gleanables cataloged per instrument; 2002–2003 "Metaphysic of Art Movements" provenance finding |
 | `2026-09-23-0000-whatiscubism-scaffold.md` | 2026-09-23 | WhatIsCubism repo scaffold build (README, schema, 13 audit cards, positions map, timelines, bibliography) |
