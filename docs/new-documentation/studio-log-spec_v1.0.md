@@ -49,11 +49,11 @@ related:
 **Controlled vocabularies** (extend as needed, but never ad hoc — propose additions in the log):
 
 - `season`: the calendar season (spring | summer | autumn | winter, by solstice/equinox
-  date) qualified by the quality of time — the moral temperature reading — in kebab-case,
-  season first: `autumn-of-atonement`, `summer-cool`. Canonical defaults: `springtime-of-life`,
-  `summer-of-the-heart` (or `summer-of-joyful-being`), `autumn-of-atonement` (or
-  `autumn-of-joyful-being`), `winter-of-the-soul` (or `winter-of-joyful-being`). One qualifier;
-  further shades go in `tags` or the log body. Always set from the session date when the log
+  date) qualified by the moral temperature reading, in kebab-case, season first:
+  `autumn-of-atonement`, `summer-cool`. Canonical defaults: `springtime-of-life`,
+  `summer-of-the-heart`, `autumn-of-atonement`, `winter-of-the-soul`. (The `-of-joyful-being`
+  variants are reserved for Seasons of the Heart project sessions.) One qualifier; further
+  shades go in `tags` or the log body. Always set from the session date when the log
   is written — never carried over unexamined.
 - `stream`: image, sound, text, mixed.
 - `session_type`: studio, field, research, admin, discourse (a video discourse counts as a session).
