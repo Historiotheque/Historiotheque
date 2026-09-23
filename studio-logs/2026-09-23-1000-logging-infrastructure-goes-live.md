@@ -3,7 +3,7 @@ date: 2026-09-23
 time_start: "10:00"
 time_end: "11:00"
 timezone: America/Toronto
-season: summer-of-the-heart
+season: autumn-of-atonement
 project: [historiotheque]
 stream: [text]
 session_type: admin
