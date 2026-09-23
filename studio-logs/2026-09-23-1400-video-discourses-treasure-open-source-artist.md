@@ -3,8 +3,7 @@ project: [historiotheque]
 session_type: discourse
 stream: [image, sound]
 workspace: historiotheque
-season: autumn-of-atonement
-season_of_heart: summer-solemn
+season: autumn
 tags: [discourse, video-presentation, instagram, art-operations, picasso-braque, documentability, open-source-artist, treasure-analogy]
 date: 2026-09-23
 reconstructed: true
@@ -48,3 +47,8 @@ for a research practice, and several volumes on the pre-20th-century
 "intellectual monuments" of Quebec history — the voyager journals (Champlain),
 the Jesuit Relations and journals. A planned reading and Wi-Fi working
 session was cut short by the heat.
+
+## Season note
+Afternoon session: summer-solemn. (Carried over from the draft frontmatter
+under spec v1.1; kept here in the body per spec v1.2 — the qualitative
+season is not metadata.)

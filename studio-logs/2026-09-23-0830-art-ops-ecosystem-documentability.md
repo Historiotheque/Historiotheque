@@ -3,7 +3,7 @@ date: 2026-09-23
 time_start: "08:30"
 time_end: "09:45"
 timezone: America/Toronto
-season: autumn-of-atonement
+season: autumn
 project: [historiotheque]
 stream: [text]
 session_type: research

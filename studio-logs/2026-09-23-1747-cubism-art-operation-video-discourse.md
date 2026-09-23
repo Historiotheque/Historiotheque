@@ -3,8 +3,7 @@ project: [notes-on-picasso-cubism-and-art-historiography]
 session_type: discourse
 stream: [image, sound]
 workspace: historiotheque
-season: autumn-of-atonement
-season_of_heart: winter-of-the-soul
+season: autumn
 tags: [discourse, video-presentation, cubism, picasso-braque, art-operation, documentability, methodology, software-best-practices, independent-research, archive]
 date: 2026-09-23
 reconstructed: true
