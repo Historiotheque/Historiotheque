@@ -7,6 +7,7 @@ everything else lives as a directory under this repo's `projects/` folder.*
 | Repo | Purpose | Status |
 |---|---|---|
 | [Historiotheque]([../../](https://github.com/Historiotheque/Historiotheque)) | Operation root: official documents, specs, schemas, master bibliography, this index | active |
+| [Research](https://github.com/Historiotheque/Research) | The scholarly apparatus of the practice: research questions, literature reviews, bibliographies, and research methods | active |
 | [Refcards](https://github.com/Historiotheque/Refcards) | Universal atomic knowledge cards | active |
 | [DesignConcepts](https://github.com/Historiotheque/DesignConcepts) | Novel design concepts, one file per concept | active |
 | [Works](https://github.com/Historiotheque/Works) | Artwork catalog: metadata + web images, masters on the Internet Archive | active |
