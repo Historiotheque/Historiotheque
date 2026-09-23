@@ -1,0 +1,35 @@
+# Studio Logs
+
+Master log location for the Historiotheque operation. Cross-project research,
+discourse, and admin sessions live here. Sessions belonging to a single project
+live in that project's own `studio-logs/` (e.g. `WhatIsCubism/studio-logs/`).
+
+## Spec
+
+Format follows [studio-log-spec_v1.0.md](../studio-log-spec_v1.0.md): one file per
+session, named `YYYY-MM-DD-HHMM-<slug>.md` (24h local time), YAML frontmatter,
+fixed section order. `Decisions` and `Next actions` are mandatory — a session with
+no decisions recorded is a session not yet understood.
+
+## Session types
+
+- `studio` — Images / Sounds / Texts work (the artwork itself)
+- `research` — labnotes: research-oriented processes and practices
+- `field` — fieldwork and field recordings
+- `admin` — operational/administrative sessions
+- `discourse` — video discourses and other public-facing sessions
+
+## How to add a log
+
+Say **"log this session"** (or "add a studio log") and describe what you did,
+decided, hit, and made. Backfilled entries are marked `reconstructed: true` with
+a provenance note and approximate timestamps.
+
+## Index (newest first)
+
+| File | Date | Session |
+|---|---|---|
+| `2026-09-23-0830-art-ops-ecosystem-documentability.md` | 2026-09-23 | RQ-2026-014→017, ArtOps Ecosystem doc, Picasso/Warhol documentation comparison, non-monotonic documentability thesis, 12-folder Research registry snapshot |
+| `2026-09-23-0130-cubism-studies-pdf-readthrough.md` | 2026-09-23 | Cubism Studies PDF (2002–2003 notes) read-through; structure mapped; gleanables cataloged per instrument; 2002–2003 "Metaphysic of Art Movements" provenance finding |
+| `2026-09-23-0000-whatiscubism-scaffold.md` | 2026-09-23 | WhatIsCubism repo scaffold build (README, schema, 13 audit cards, positions map, timelines, bibliography) |
+| `2026-09-22-2000-art-operation-schema-audit-apparatus.md` | 2026-09-22 | Art Operation Schema v0.1, evidence-audit + positions-map instrument, RQ-2026-013 |
