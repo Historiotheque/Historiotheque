@@ -6,7 +6,7 @@ live in that project's own `studio-logs/` (e.g. `WhatIsCubism/studio-logs/`).
 
 ## Spec
 
-Format follows [studio-log-spec_v1.0.md](../docs/new-documentation/studio-log-spec_v1.0.md): one file per
+Format follows [studio-log-spec_v1.3.md](../studio-log-spec_v1.3.md): one file per
 session, named `YYYY-MM-DD-HHMM-<slug>.md` (24h local time), YAML frontmatter,
 fixed section order. `Decisions` and `Next actions` are mandatory — a session with
 no decisions recorded is a session not yet understood.
@@ -29,6 +29,7 @@ a provenance note and approximate timestamps.
 
 | File | Date | Session |
 |---|---|---|
+| `2026-09-23-2315-atmospherics-theory-scaffold.md` | 2026-09-23 | AtmosphericsTheory repo scaffold: bibliography filed, Work-Schema-framed structure, zip built (empty-folder and hidden-dotfile upload fixes), commit text, project-list entries, naming decision |
 | `2026-09-23-1747-cubism-art-operation-video-discourse.md` | 2026-09-23 | 26-min video discourse: Cubism as an Art Operation — what the records show and don't; Picasso/Braque procedures undocumented; software-dev logging best practices imported; the independent-researcher's publication paradox |
 | `2026-09-23-1400-video-discourses-treasure-open-source-artist.md` | 2026-09-23 | Two walk-and-talk video discourses (Picasso/Braque procedures undocumented; the "Treasure" archive analogy; Open Source Artist coinage); first published to Instagram as a Reel |
 | `2026-09-23-1000-logging-infrastructure-goes-live.md` | 2026-09-23 | Logging infrastructure goes live on GitHub: 6 refcards uploaded, index.md rows added, studio-logs batch uploaded, spec placed, dead link fixed, upload protocol established |
