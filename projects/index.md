@@ -8,6 +8,7 @@ everything else lives as a directory under this repo's `projects/` folder.*
 |---|---|---|
 | [Historiotheque]([../../](https://github.com/Historiotheque/Historiotheque)) | Operation root: official documents, specs, schemas, master bibliography, this index | active |
 | [Research](https://github.com/Historiotheque/Research) | The scholarly apparatus of the practice: research questions, literature reviews, bibliographies, and research methods | active |
+| [AtmosphericsTheory](https://github.com/Historiotheque/AtmosphericsTheory) | Theory research archive: field recordings, essays, concepts glossary, bibliography, and the founding documents of Atmospheric Tone | active |
 | [VerifiabilityStack](https://github.com/Historiotheque/VerifiabilityStack) | Verifiability handbook: making independent art-research citable, no institution required | active |
 | [ArtOperation](https://github.com/Historiotheque/ArtOperation) | Art-operation manual: how to build and run a mature artistic practice | active |
 | [Refcards](https://github.com/Historiotheque/Refcards) | Universal atomic knowledge cards | active |
