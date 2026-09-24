@@ -6,7 +6,7 @@ live in that project's own `studio-logs/` (e.g. `WhatIsCubism/studio-logs/`).
 
 ## Spec
 
-Format follows [studio-log-spec_v1.3.md](../studio-log-spec_v1.3.md): one file per
+Format follows [studio-log-spec_v1.3.md](../docs/new-documentation/studio-log-spec_v1.3.md): one file per
 session, named `YYYY-MM-DD-HHMM-<slug>.md` (24h local time), YAML frontmatter,
 fixed section order. `Decisions` and `Next actions` are mandatory — a session with
 no decisions recorded is a session not yet understood.
