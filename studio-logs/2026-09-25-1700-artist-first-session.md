@@ -3,7 +3,7 @@ date: 2026-09-25
 time_start: "14:00"
 time_end: "17:15"
 timezone: America/Toronto
-season: autumn of joyful Bbing
+season: autumn of joyful being
 project: []
 stream: [text, image]
 session_type: research
