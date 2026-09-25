@@ -9,7 +9,8 @@ status: reference
 # Historiotheque Workspace Taxonomy — June 2026
 
 *Annotated taxonomy of subjects in the June 2026 log notes (A.G.). This is a
-**finding aid** — an index to the log, not a concept. For the concepts themselves, see the [DesignConcepts](https://github.com/Historiotheque/DesignConcepts) repository and the [Refcards](https://github.com/Historiotheque/Refcards) repository.
+**finding aid** — an index to the log, not a concept. For the concepts themselves,
+see the DesignConcepts repository and the Refcards repository.*
 
 The source is a dense, timestamped personal research-and-practice log spanning
 early-to-mid June 2026. It functions simultaneously as daily activity record,
@@ -175,19 +176,3 @@ hyperreflexive, historically deep, spatially elastic laboratory practice — ser
 simultaneously as personal art operation, contribution to AI research, and resource
 for cognitive innovation. The document itself is the primary artifact of that
 practice: a living, timestamped surface of the workspace.
-
-- - - - - - -
-
-**A note on what this is.** This repository belongs to an ongoing research-creation
-project at the intersections of art, history, and philosophy — the open working
-record of one artist-researcher's practice. It documents a method, not a manual:
-nothing here is instruction, counsel, or advice on running an art operation, a
-studio, or a creative life, and nothing here is presented as a model to follow.
-What holds in this laboratory may not hold in yours.
-
-All works are offered in good faith as contributions to public discourse and
-aesthetic reflection. Take what is useful and leave the rest — the responsibility
-for interpretation, and for whatever is done with it, remains with each participant
-in that dialogue.
-
-[A.G. (c) 2026. ![A.G. (c) 2026. All Rights Reserved](https://historiotheque.files.wordpress.com/2016/11/ag_signature_official_2015_50px_cropped.jpg) All Rights Reserved.](http://alexgagnon.com)

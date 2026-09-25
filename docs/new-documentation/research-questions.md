@@ -86,6 +86,67 @@ changes — and what does the wave-function collapse protocol reveal about creat
 **Status:** open · **Added:** 2026-09-20
 **Anchors:** The Historiotheque as cultural software; Release 5.0.0 (MAJOR VERSION).
 
+## Cluster: Art operations & movements
+
+### RQ-2026-013
+**Question:** How did the Picasso–Braque collaboration function as an *art operation* —
+and how did that operation generate a movement?
+**Status:** refining · **Added:** 2026-09-22
+**Anchors:** WhatIsCubism repo (Historiotheque org); Art Operation Schema v0.1;
+Bateau-Lavoir c. 1907–1914; the New Documentation thesis (mapped vs. unconscious gaps).
+
+### RQ-2026-014 (secondary · companion to RQ-2026-013)
+**Question:** Why is the workspace and workflow of the 1907–1914 Picasso–Braque
+collaboration so much less documentable than the contemporary institutional production
+of Picasso/Cubism knowledge — and what does that asymmetry reveal about what each
+operation records, and what each operation cannot record?
+**Status:** refining · **Added:** 2026-09-23
+**Anchors:** The institutional Picasso operation (Picasso Administration, archives,
+Succession and rights regime, Musée national Picasso-Paris, the published *Écrits*);
+the New Documentation thesis; his 2002 encounter with the Succession's rights power.
+
+### RQ-2026-015
+**Question:** How do art operations interface with one another across time and space —
+and what flows between them (works, records, money, people, legitimacy)? What does an
+operational view reveal about art movements, about history, about art history?
+**Status:** refining · **Added:** 2026-09-23
+**Anchors:** Operation-to-operation interfaces, synchronic (Kahnweiler, Apollinaire/
+Salmon, Section d'Or, the Steins as interfacing operations) and diachronic (Operation B
+forking Operation A's repo in 1973); the global historiotech system — his metaphysics
+of movements wearing work clothes; the New Documentation as network protocol. Note: the
+question is operational, not metaphysical — the metaphysics lives in the Metaphysics of
+Art Movements chat. **BRIDGE (2026-09-23):** this question stays in the WhatIsCubism
+project and *ends* it — the historical operations interfacing operation-to-operation
+across time and space is the launchpad from which the ArtOps Ecosystem mini-project
+takes off. Shared by both projects; elaborated ecosystem-side.
+
+### RQ-2026-017 (filed for future reference)
+**Question:** How documentable were art operations across history — from the Renaissance
+guilds' contracts and account books, through Picasso's dated objects and Warhol's Time
+Capsules, to the present — and what does that history reveal about what the New
+Documentation must do for art operators today, with the tools now at our disposal?
+**Status:** open · **Added:** 2026-09-23
+**Anchors:** The historical expansion of the art-ops study; documentability as
+non-monotonic (guilds > modern genius > Warhol > Git); documentation technologies per
+era (contract, account book, dated canvas, Polaroid, tape, diary-box, version control);
+"upping the documentation game." Not active — parked until the Cubism work advances.
+
+### RQ-2026-016
+**Question:** What would a designed, partly autonomous ecosystem of art operations look
+like — and who is the artist when automata make the art?
+**Status:** refining · **Added:** 2026-09-23
+**Anchors:** The global historiotech system as a possible future (RQ-2026-015 grown up);
+design science — mechanisms, plasticity of materials, operations as things you build;
+the inversion: art history treated painters as figurative automatons, now the automata
+are literal; RQ-2026-009 (the 95% machine-driven operation and the Chief Art Operator);
+Schizobot; RQ-2026-008 (algorithmogenesis). Caution: Dimension 1 (telos) doesn't
+automate itself — the automata can paint; who decides what the painting is *for*?
+**Project home (2026-09-23):** founding question of the ArtOps Ecosystem mini-project
+(`Historiotheque/ArtOpsEcosystem`); takes off from the RQ-2026-015 bridge. His 2015
+note (ArtOps/broker_ops/ArtExchangeOps as DAOs/automata; originated for his novels) and
+the 2024 diagram elaboration are the founding documents. The Global Historiotheque is
+the concrete real-world example of what the ecosystem might look like.
+
 ## Cluster: Time & value
 
 ### RQ-2026-011
