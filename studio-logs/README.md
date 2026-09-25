@@ -6,7 +6,7 @@ live in that project's own `studio-logs/` (e.g. `WhatIsCubism/studio-logs/`).
 
 ## Spec
 
-Format follows [studio-log-spec_v1.3.md](../docs/new-documentation/studio-log-spec_v1.3.md): one file per
+Format follows [studio-log-spec_v1.5.md](../new-documentation/specs/studio-log-spec_v1.5.md): one file per
 session, named `YYYY-MM-DD-HHMM-<slug>.md` (24h local time), YAML frontmatter,
 fixed section order. `Decisions` and `Next actions` are mandatory — a session with
 no decisions recorded is a session not yet understood.
@@ -29,6 +29,7 @@ a provenance note and approximate timestamps.
 
 | File | Date | Session |
 |---|---|---|
+| `2026-09-25-1700-artist-first-session.md` | 2026-09-25 | Afternoon session: new-documentation 6-file build; studio-log-spec v1.5 (season rule); naming-correction incident + overrule (blunder kept as fiction material); two-tier project architecture; Archivillus thread; DesignConcepts DOI live (metadata edited) + Research redelivery pending; Bluesky release posts; artist-first statement (procedural art, Noise Fields, Twin Flames); season: Autumn of Joyful Being (a touch of winter of the soul during the setup battles) |
 | `2026-09-25-1200-release-day-session.md` | 2026-09-25 | Walk field recordings (methodology + error types) → error taxonomy v0.1; somatic principles v0.1 (Feldenkrais, martial arts, Taoism, Stoicism); repo-minimalism doctrine; Research folder READMEs; personal Next Actions list; "methodology matters" article analysis; v1.0.0 releases published (Research, DesignConcepts); .zenodo.json omission logged as operator error |
 | `2026-09-25-0700-doctrine-session.md` | 2026-09-25 | Overnight governance build (15 files + zip, upload pending) + morning doctrine session: solo-dev pitfalls deep-dived, Pattern Language status + placement (Research/methods/), terminology/no-backfill/reconstruction doctrines, DOI/FORCE11 verdicts, Cultural Software elaboration, hard-fork plan, path hygiene STRICT rule, scale-down doctrine adopted (fallow by design, never by burnout) |
 | `2026-09-24-2230-governance-design.md` | 2026-09-24 | Governance repo design session: full annotated structure held in memory (build after usage reset); principles 7→12 (independence + disability exception); warnings doctrine; licensing open question; audit cards; humanism; Historiotheque vision; logistics/loss inventory; iconophilia→iconoclasm; Custodian of Knowledge |
