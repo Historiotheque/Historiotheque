@@ -26,6 +26,6 @@
 
 **11. Impartiality.** Distance is what makes the audit honest. I judge the work — mine and others' — without favor and without a stake in the outcome. Disinterestedness is a working condition, not a virtue I claim to possess.
 
-**12. Independence.** Never a dependent of the State. No subsidies for the work, no grants that buy a say in it — the gift that is a curse, the White Elephant: answering to bureaucrats and technocrats who do not have your interests at heart. Exception, stated plainly: disability-related state support is not dependence in this sense. Disability rights and advocacy is a principle of this operation, and rules have exceptions by definition.
+**12. Independence.** Never a dependent of the State. No subsidies for the work, no grants that buy a say in it — the gift that is a curse: answering to bureaucrats and technocrats who do not have your interests at heart. Exception, stated plainly: disability-related state support is not dependence in this sense. Disability rights and advocacy is a principle of this operation, and rules have exceptions by definition.
 
 *For review and revision by the Chief Art Operator.*
