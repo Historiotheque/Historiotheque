@@ -21,8 +21,8 @@ gets built for real, and the workflow methodology gets its first formal
 treatment. In order:
 
 1. **GitHub Desktop installed.** On the Configure Git screen: kept Name = A.G.
-   and the GitHub private noreply email
-   (`1619852+antiface@users.noreply.github.com`) — the privacy-preserving
+   and the GitHub private noreply email (address withheld — privacy-preserving
+   stand-in; already configured)
    default; the real email never touches public commits.
 2. **Cloned `Historiotheque/Research`** via the URL tab. Local path moved out of
    OneDrive (`Documents\GitHub\Research` → non-synced path) — OneDrive sync

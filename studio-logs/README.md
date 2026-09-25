@@ -29,6 +29,7 @@ a provenance note and approximate timestamps.
 
 | File | Date | Session |
 |---|---|---|
+| `2026-09-24-1800-devops-tooling-evening.md` | 2026-09-24 | DevOps tooling evening: VS Code + Python 3.13.13 verified, first venv, ipykernel ×2, kernel-picker saga, first notebook ("Cultural Software" framing); GitHub Desktop local commit loop completed; two feature requests filed; frustration logged honestly; operator-not-engineer decision |
 | `2026-09-24-0845-workflow-methodology-pattern-harvest.md` | 2026-09-24 | GitHub Desktop + VS Code installed; Thinking/Making split; Issues doctrine; solo-dev pitfalls canon; capture points; Switchboard formalized (stack-pop); RQ-2026-018; pattern-language first pass (24 stubs); PARADOXES.md started |
 | `2026-09-23-2315-atmospherics-theory-scaffold.md` | 2026-09-23 | AtmosphericsTheory repo scaffold: bibliography filed, Work-Schema-framed structure, zip built (empty-folder and hidden-dotfile upload fixes), commit text, project-list entries, naming decision |
 | `2026-09-23-1747-cubism-art-operation-video-discourse.md` | 2026-09-23 | 26-min video discourse: Cubism as an Art Operation — what the records show and don't; Picasso/Braque procedures undocumented; software-dev logging best practices imported; the independent-researcher's publication paradox |
