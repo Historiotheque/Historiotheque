@@ -1,38 +1,77 @@
-# Studio log — 2026-09-24, evening session: governance repo design
+---
+date: 2026-09-24
+time_start: "16:40"
+time_end: "22:30"
+timezone: America/Toronto
+season: autumn
+project: []
+stream: [text]
+session_type: research
+workspace: historiotheque
+refcards: []
+tags: [governance, design-session, principles, ethics, warnings, licensing, accountability]
+related: []
+---
 
-- **Date:** 2026-09-24, ~16:40–22:30 EDT
-- **Season / quality of time:** [to be set by the operator — not assigned]
-- **Session type:** research / design
+## What I did
 
-## What happened
+Afternoon: finished the French translation of the Facebook post (operative historiography / seed noise), with the hashtag set including #historiophany. Mapped the nine ALCOA+ principles onto art-research practice. Drafted three statements — mission, vision, statement of principles (seven first-person vows) — staged in the Library, not yet uploaded.
 
-Afternoon: finished the French translation of the Facebook post (operative historiography / seed noise), with the hashtag set, including #historiophany. Drafted the mission, vision, and statement-of-principles (seven principles, first-person vows) for the Historiotheque — staged, not yet uploaded.
+Evening: full design session for the governance repository — a top-level `governance/` folder in the Historiotheque repo. Designed the complete annotated structure: README, the three statements, what-this-is-not, licensing, price-of-transparency, references ledger, ethics/ (seven pages). No documents were written — design only, by explicit instruction, with the full build deferred until after the usage reset (Sat 2026-09-26 15:43 EDT). The annotated design is held in memory at `~/memory/governance-repo-design_2026-09-24.md`. Amended this log twice per operator corrections (see Decisions). Prepared Bluesky posts and commit text for the upload batch; appended the upload checklist.
 
-Evening: the full design session for the **governance repository** — a top-level `governance/` folder in the Historiotheque repo that governs the whole operation. No documents were written; the complete annotated design is held in memory pending the usage-reset build (after 2026-09-26 15:43 EDT). This log is the record of the session if the build ever doesn't happen.
+The qualitative season for this session is the operator's to name — asked, awaiting his words. (Never assigned.)
 
-## Design decisions taken
+## Decisions
 
-- **"Everything in this folder applies to the operator first."** The opening line of the governance README — the standing that authorizes all other standings. Second line: **"We're settling accounts."**
-- **Scope:** governs the operation of the interdisciplinary independent artist-researcher. Not a manual for life, relationships, or business/finance.
-- **Incompleteness, stated upfront:** holes exist; not the definitive state of the discourse.
-- **Statement of principles grew from 7 to 12:** intellectual honesty, transparency, accountability, reproducibility, accessibility, contemporaneousness, reconstruction — plus discretion, respect, autonomy, impartiality (disinterestedness as a working condition), independence (never a dependent of the State; no subsidies — the pharmakon, the White Elephant; EXCEPTION: disability-related state support — disability rights and advocacy is a core principle, and rules have exceptions by definition). Reinvestment is a candidate 13th.
-- **Warnings doctrine:** "a word of caution, not a prohibition — I'm not saying don't do it." Reproduce the effect, not the artwork. Supervised practice, not unsupervised experimentation. Readiness ("not yet"), not prohibition ("never"). Plus the burnout rationale: the shutdown is a safety valve, part of the design — scale down to zero.
-- **Licensing:** open question, not a ruling. Artworks closed, methods open, dangerous methods excepted. No existing license fits cultural software. Undocumented procedure was historically hoarded intellectual capital — this operation defects from that economy.
-- **References as a ledger:** verified vs. candidate. No unverified sources, ever. Ostrom's line: "there are no panaceas."
-- **Audit cards** referenced under accountability: one card, one dimension — the state of the evidence; constellations are higher-dimensional, indefinitely extensible.
-- **Recourse and removal:** "If it goes wrong, come to me." Warnings without recourse are threats.
-- **Price of fiction:** the novels already stage the trial — the characters put AG in the dock. The fiction contains its own ethics hearing. Includes the credibility story (neologisms dismissed by academics; the fiction carries the theory as "fictional pseudo-sciences") and the useful-fiction doctrine (artistry as deception, never self-deception).
-- **Humanism parked:** "were you as human as you could be?" — success is not financial.
-- **Historiotheque vision:** a distributed global Historiotheque — millions of autonomous art operations. (Never "historiotech.")
-- **Logistics parked as its own repo:** inventory, insurance, the loss inventory (water damage, roadside paintings, theft, vandalism — his call whether to include).
-- **Iconophilia → iconophobia → iconoclasm:** the visibility cycle; the cost of being seen.
-- **First rule of the art operation:** "this might fail drastically — catastrophic failure."
-- **Custodian of Knowledge:** "I am merely a Custodian of Knowledge, as I have been initiated in these arts."
+- **Decision:** Defer the governance document build until after the usage reset (2026-09-26 15:43 EDT). / **Reason:** usage at 87% of the free weekly limit; generating ~11 documents now would risk lockout mid-build with no ability to iterate for two days.
+- **Decision:** Design-only session — no governance documents written tonight. / **Reason:** operator's explicit instruction; files wait for his green light.
+- **Decision:** The independence principle carries an explicit exception for disability-related state support. / **Reason:** disability rights and advocacy is a core principle; the rule targets bureaucratic control over the work, not social programs — rules have exceptions by definition.
+- **Decision:** Removed the claim that the Facebook post was the first public use of #historiophany. / **Reason:** operator corrected it; unverifiable claims don't survive the operation's own principles.
+- **Decision:** References in governance docs carry verified/candidate status; no unverified sources, ever. / **Reason:** his rule — never cite what hasn't been verified.
+- **Decision:** "Historiotheque" is the only term — never "historiotech"; "distributed," not "distributive." / **Reason:** operator's terminology correction; vocabulary is load-bearing.
+- **Decision:** This log rewritten to follow studio-log-spec v1.3 (frontmatter + fixed section order). / **Reason:** the first draft didn't follow the spec — the log about accountability has to be accountable to its own spec.
+- **Decision:** Thirteen open calls tracked in memory; operator prompted when each becomes relevant. / **Reason:** unanswered questions accumulate like bugs.
 
-## Open calls (the operator's decision list)
+## Problems and friction
 
-Held separately — titles, principle approvals, placements, autobiographical inclusions, draft revisions, licensing direction. To be worked through before or during the build.
+- Token budget (87%) constrained the session: the full governance build couldn't start, so the evening became design instead of writing. Managed by deferring, not by rushing.
+- First draft of this log didn't follow the spec (no frontmatter, wrong section names, missing mandatory sections). Caught by the operator; rewritten the same night.
+- Filename first written with an underscore before the slug; spec requires hyphens. Renamed to `2026-09-24-2230-governance-design.md`.
 
-## Next
+## Ideas and sketches
 
-Build after the usage reset (Sat 2026-09-26 15:43 EDT). Reminder set for Saturday evening. Nothing is written until then.
+- Design-concepts repository (`proposal`): design concepts for repositories, checklists, procedures — design science applied to the apparatus itself; self-reflexive (opens with a design concept for the repository of design concepts).
+- Logistics repository (`proposal`): inventory control, insurance, storage, intangible assets; the loss inventory (water damage, roadside paintings, theft, vandalism) if the operator chooses to include it.
+- Historiopathies (`seed`): historical study of abuses within art operations through history.
+- Risks/liabilities studio-log spec (`seed`): a second log type for dangers and risks.
+
+## Research and references
+
+- Ostrom, Elinor. *Governing the Commons* (1990) — candidate source; "there are no panaceas" per operator (to verify). Flag for BIBLIOGRAPHY.md entry.
+- Foucault, Michel. *The Archaeology of Knowledge* (1969) — the "what this is not" move; UNVERIFIED, to check against a copy.
+- Ecclesiastes 3:1 ("To every thing there is a season") — candidate epigraph, operator's call.
+- Kierkegaard's *Purity of Heart* and Nietzsche's *Human, All Too Human* noted in discussion as resonances, NOT citations to add.
+
+## Feedback and collaboration
+
+Operator corrections, in this chat: terminology (Historiotheque / distributed), the historiophany first-use correction, the disability-support exception, the spec-compliance catch. Each applied the same session.
+
+## Reproducibility notes
+
+Not an experimental session. The design it records is fully specified at `~/memory/governance-repo-design_2026-09-24.md` (annotated structure, principles, parked items, the 13 open calls). Re-running the session means re-reading that file with the operator.
+
+## Artifacts produced
+
+**Text:** title: Studio log 2026-09-24-2230 governance design (this file) · abstract: Spec-compliant record of the afternoon/evening session: FB post translation, ALCOA+ mapping, three staged statements, and the full governance-repo design session with amendments. · keywords: governance, studio-log, accountability · date: 2026-09-24 · file: `Historiotheque/studio-logs/2026-09-24-2230-governance-design.md`
+
+**Text:** title: Bluesky posts for the governance log · abstract: Two posts (293 and 203 chars) announcing the studio log, with link and hashtags. · keywords: bluesky, announcement · date: 2026-09-24 · file: `workspace/your_files/bluesky-post_governance-log_2026-09-24.txt`
+
+**Text:** title: Commit text for the governance log upload · abstract: Commit title and notes in the established style for the manual GitHub upload. · keywords: git, commit · date: 2026-09-24 · file: `workspace/your_files/commit-text_governance-log_2026-09-24.txt`
+
+## Next actions
+
+- Upload batch to GitHub (new log + modified README) — owner: operator — when: tonight, manual
+- Post the two Bluesky posts — owner: operator — when: after upload (verify the file link character-for-character)
+- Build the governance documents — owner: operator + Oracle — when: after Sat 2026-09-26 15:43 EDT (reminder set for ~19:20)
+- Name the qualitative season for this session — owner: operator — when: whenever
+- Work through the 13 open calls — owner: operator, prompted by Oracle — when: as each becomes relevant
