@@ -74,6 +74,6 @@ What the concept still needs — research, decisions, missing machinery.
 
 ## 5. How to log one
 
-Tell Oracle: **"log a design concept"** and describe the concept as it came to you — whole,
+Tell Archivillus: **"log a design concept"** and describe the concept as it came to you — whole,
 whatever kind of work it is. Oracle drafts the entry in this format, assigns the next
 `DC-YYYY-NNN` ID, files it, and reads it back for correction before it's final.
