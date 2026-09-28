@@ -13,6 +13,7 @@ everything else lives as a directory under this repo's `projects/` folder.*
 | [ArtOperation](https://github.com/Historiotheque/ArtOperation) | Art-operation manual: how to build and run a mature artistic practice | active |
 | [Refcards](https://github.com/Historiotheque/Refcards) | Universal atomic knowledge cards | active |
 | [DesignConcepts](https://github.com/Historiotheque/DesignConcepts) | Design concepts for works, workspace, and operation, one file per concept | active |
+| [ExperimentalNovel](https://github.com/Historiotheque/ExperimentalNovel) | the experimental-novel laboratory: The Revolt of Fiction trilogy (The History-Project, The Archives-Project, The Chronotopium: A Story of Algorithmogenesis) — the series bible, the Interzone staging buffer, the REFMATS illuminated bibliography, and novel logs. | active |
 | [Works](https://github.com/Historiotheque/Works) | Artwork catalog: metadata + web images, masters on the Internet Archive | active |
 | Crossrefs | Maps and indexes between everything | planned |
 | Refmats | Reference materials (transfer from personal account) | planned |
