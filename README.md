@@ -1,42 +1,52 @@
-The art operation of A.G. — an art studio, sound design lab, and research practice treated as cultural software. Documented in the light since 2001.
+# Studio Logs
 
-# Historiotheque [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22866789.svg)](https://doi.org/10.5281/zenodo.22866789)
+Master log location for the Historiotheque operation. Cross-project research,
+discourse, and admin sessions live here. Sessions belonging to a single project
+live in that project's own `studio-logs/` (e.g. `WhatIsCubism/studio-logs/`).
 
-The operation root of the Historiotheque — the art operation of interdisciplinary
-artist-researcher A.G. (Alex Gagnon), treated as cultural software.
+## Spec
 
-## What this repo is
+Format follows [studio-log-spec_v1.6.md](../new-documentation/specs/studio-log-spec_v1.6.md): one file per
+session, named `YYYY-MM-DD-HHMM-<slug>.md` (24h local time), YAML frontmatter,
+fixed section order. `Decisions` and `Next actions` are mandatory — a session with
+no decisions recorded is a session not yet understood.
 
-The map of the whole operation: the official documents, the specifications that govern
-the documentation itself, the schemas, the master bibliography, the cross-project
-studio logs, and the index of every repository in the organization.
+## Session types
 
-## Contents
+- `studio` — Images / Sounds / Texts work (the artwork itself)
+- `research` — labnotes: research-oriented processes and practices
+- `field` — fieldwork and field recordings
+- `admin` — operational/administrative sessions
+- `discourse` — video discourses and other public-facing sessions
 
-- `docs/declarations/` — Official Declarations of Production-Year (forward-looking)
-- `docs/releases/` — Official Releases of the Historiotheque (semantic versioning)
-- `docs/prospectives/` — PROSPECTIVEs
-- `docs/retrospectives/` — RETROSPECTIVEs
-- `docs/new-documentation/` — the specs: studio log format, repo structure, design
-  concepts, research questions, artwork archive plan
-- `schemas/` — the work schemas and taxonomies
-- `projects/` — the index of every repo in the organization (`projects/index.md`)
-- `studio-logs/` — cross-project studio logs
-- `workflows/` — automation and procedures
-- `BIBLIOGRAPHY.md` — the master bibliography (Chicago 17th, author-date)
+## How to add a log
 
-- - - - - - -
+Say **"log this session"** (or "add a studio log") and describe what you did,
+decided, hit, and made. Backfilled entries are marked `reconstructed: true` with
+a provenance note and approximate timestamps.
 
-**A note on what this is.** This repository belongs to an ongoing research-creation
-project at the intersections of art, history, and philosophy — the open working
-record of one artist-researcher's practice. It documents a method, not a manual:
-nothing here is instruction, counsel, or advice on running an art operation, a
-studio, or a creative life, and nothing here is presented as a model to follow.
-What holds in this laboratory may not hold in yours.
+## Index (newest first)
 
-All works are offered in good faith as contributions to public discourse and
-aesthetic reflection. Take what is useful and leave the rest — the responsibility
-for interpretation, and for whatever is done with it, remains with each participant
-in that dialogue.
-
-[A.G. (c) 2026. ![A.G. (c) 2026. All Rights Reserved](https://historiotheque.files.wordpress.com/2016/11/ag_signature_official_2015_50px_cropped.jpg) All Rights Reserved.](http://alexgagnon.com)
+| File | Date | Session |
+|---|---|---|
+| `2026-10-01-2335-infrastructure-to-production.md` | 2026-10-01 | Infrastructure → production: the CHANGELOG deliberation and push (two-lineage rule — Medium practice releases vs GitHub repo releases, never merged; hand-written, sparse entries stay sparse); the website live on historiotheque.ca and historiotheque.github.io; ANTILOG_30Sep26a (Series #001 photo, unredacted labnote, machine-intelligence feedback on the notes); commit signing completed (Verified badge, automatic from here on); timestamp-signature research (transparent, verifiable, citable, auditable); Bluesky #OpenScience/#OpenResearch and ECR guides; 11 printed pages on documentation paradigms in art history; new palette (DecoArt Americana: Almondine, Matcha Green, Warm Beige) and the polished light-hued series direction vs the rough Chronotopium sketches; printing practice revived (new toner installed, 500+ pages since spring, read-correct-file cycle, Refmats recycling, new printouts folder); LOG_2026.txt (a decade) and TABLOG_2026.txt; the GeneralWorkflow methods re-read and the ALX methodology to adapt; 4TB cold-storage drive and cloud reorganization planned; the rule-override flag protocol (named, scoped, recorded; deliberation pause for infrastructure-class changes) with its first live case — the one-time Lifespace override for the Oct 1 rest day (river, dock, walks, friends, Autumn of Joyful Being); "channels" terminology for the logs; the loose-scraps practice (Test Suite debugging fold-in, 2026-09-30, never logged until now); K. collaboration, stealth mode, passing mention; academic-papers program (annotated bibliography, literature reviews, RQs in the Research repo); Interzone game plan for the ExperimentalNovel repo |
+| `2026-09-30-1523-historiotheque-series-001-and-spec-v1-6.md` | 2026-09-30 | First log under spec v1.6: HISTORIOTHEQUE SERIES #001 (Laboratory Notebook practice revived, labnote.py; two new canvases started); the cemetery Reel (Instagram Reel + Story, URL to Threads — a video, not a field recording; caption added, alt text not added); research (2015 Laboratory Notebook structural analysis; Manifesto of Latent Realism intake; Formalization Module 1 — the session / active space); the v1.6 deliberation in full (session_type = verbs from the Work Schema × workspace = places; double-duty values and admin retired; publishing added; field sessions first-class; active-space headers; stream stands); QUAX significance in brief with the warrant-route decision (full record in novel log #3, ExperimentalNovel repo); new ExperimentalNovel release forthcoming under the reader-visible-state rule |
+| `2026-09-29-1040-an-evening-and-morning-of-spec-deliberation.md` | 2026-09-29 | Evening-and-morning session per spec v1.5 (v1.6 NOT minted — pending Specifications deliberation): v1.6 ratifications (list-valued session_type, body boundary markers, lab + somatic) then parked for Work Schema consultation; never-again precedence rule; rules-of-rules (prompt-don't-guess, "channel" terminology, neutral timestamps); Rhythm in the Workspace filed; Work Schema Facet A → session_type derivation; variable geometry adopted (active space = workspace × session_type; studio/lab/field; desk→lab, archives→lab×archiving); active-space state-header proposal; faceted grounding (Otlet/UDC, Ranganathan); field logs decided (A-vs-B open), atmospheric-tone practice; Schizobot channel; backup plan; architecture.md + redaction_policy.md proposals; reference-before-splitting; Unified Field of Experience |
+| `2026-09-28-2300-a-day-of-studio-research-and-discourse.md` | 2026-09-28 | Full-day log since the 0425 log: first public push (art-ops-patterns, Pattern Language v0.1); ExperimentalNovel repo surgery + root README rewrite; HISTORIAGOGY #001 horizontals painted (double-axes deviation); 2009 Cost of Ping notes + 2018 M.J. λ-function conversation filed; Bluesky versioning doctrine (version by reader-visible state); test-suite concept staged; studio-log spec v1.6 proposal (list-valued session_type, boundary markers); AI-language decision (generic terms; declarations immutable; Archivillus authorized); new rulings (empty the inbox, rename-don't-duplicate, pre-push polish is the author's prerogative) |
+| `2026-09-28-0425-design-concepts-constitution-session.md` | 2026-09-28 | Constitution placement adopted: ONE CONSTITUTION.md at the Source root (Preamble/Grand Strategy/six articles), experimental-novel repo's becomes a pointer; DC-2026-004/005/006 logged (ExperimentalNovel-as-system; Incorruptible Source hub-and-spoke; Revolt of Fiction System); design-concept level doctrine (work/container/infrastructure); design-concept-log-spec v1.0 touch-up ("Tell Archivillus"); Bluesky Readers realization — reader feedback folds back into the repos, staged for an ordre du jour; Interzone cleared of design-concepts material; side chat renamed (never a second chat, per his rule) |
+| `2026-09-27-0715-morning-doctrine-session.md` | 2026-09-27 | Morning discourse: snapshot doctrine (standing rule); Art of the Found + Restoration Points lineage (2015 AntiOS); brand-rule refinement (PII-based, attribution supersedes); divergence-flagging rule (critical); CONSTITUTION.md at the Source (proposed); constitution.md record corrected; PARADOXES.md → backpropagation named (first live case); timestamps audit + doctrine (bicycle story, notebook-becomes-LOG); temporal order/sequencing/Chronos; cost of remembering (folder-compression, useful forgetting); distributed logging; RQ-2026-019 filed (ledger/proof-of-work); OPEN-QUESTIONS.md held open |
+| `2026-09-26-2200-from-research-to-creation.md` | 2026-09-26 | Reconstructed log, 2026-09-25–26: Research v1.0.0 re-publish + Zenodo repair (webhook diagnosis, 409 duplicate guard, metadata fixes, DOI number unconfirmed); nudge-format rule (one-line triage, never interrupt a procedure); checklists reframed as operator heuristics; Inquisitive AI research thread approved; 2015 AntiOS notes verified (landed vs. open); Production-Year 2027–2028 doctrine; History-Paintings (new one planned); research→creation mode turn; brand-name denylist incident + same-evening amendment; season named Autumn of Joyful Being |
+| `2026-09-25-1700-artist-first-session.md` | 2026-09-25 | Afternoon session: new-documentation 6-file build; studio-log-spec v1.5 (season rule); naming-correction incident + overrule (blunder kept as fiction material); two-tier project architecture; Archivillus thread; DesignConcepts DOI live (metadata edited) + Research redelivery pending; Bluesky release posts; artist-first statement (procedural art, Noise Fields, Twin Flames); season named: winter of the soul |
+| `2026-09-25-1200-release-day-session.md` | 2026-09-25 | Walk field recordings (methodology + error types) → error taxonomy v0.1; somatic principles v0.1 (Feldenkrais, martial arts, Taoism, Stoicism); repo-minimalism doctrine; Research folder READMEs; personal Next Actions list; "methodology matters" article analysis; v1.0.0 releases published (Research, DesignConcepts); .zenodo.json omission logged as operator error |
+| `2026-09-25-0700-doctrine-session.md` | 2026-09-25 | Overnight governance build (15 files + zip, upload pending) + morning doctrine session: solo-dev pitfalls deep-dived, Pattern Language status + placement (Research/methods/), terminology/no-backfill/reconstruction doctrines, DOI/FORCE11 verdicts, Cultural Software elaboration, hard-fork plan, path hygiene STRICT rule, scale-down doctrine adopted (fallow by design, never by burnout) |
+| `2026-09-24-2230-governance-design.md` | 2026-09-24 | Governance repo design session: full annotated structure held in memory (build after usage reset); principles 7→12 (independence + disability exception); warnings doctrine; licensing open question; audit cards; humanism; Historiotheque vision; logistics/loss inventory; iconophilia→iconoclasm; Custodian of Knowledge |
+| `2026-09-24-1800-devops-tooling-evening.md` | 2026-09-24 | DevOps tooling evening: VS Code + Python 3.13.13 verified, first venv, ipykernel ×2, kernel-picker saga, first notebook ("Cultural Software" framing); GitHub Desktop local commit loop completed; two feature requests filed; frustration logged honestly; operator-not-engineer decision |
+| `2026-09-24-0845-workflow-methodology-pattern-harvest.md` | 2026-09-24 | GitHub Desktop + VS Code installed; Thinking/Making split; Issues doctrine; solo-dev pitfalls canon; capture points; Switchboard formalized (stack-pop); RQ-2026-018; pattern-language first pass (24 stubs); PARADOXES.md started |
+| `2026-09-23-2315-atmospherics-theory-scaffold.md` | 2026-09-23 | AtmosphericsTheory repo scaffold: bibliography filed, Work-Schema-framed structure, zip built (empty-folder and hidden-dotfile upload fixes), commit text, project-list entries, naming decision |
+| `2026-09-23-1747-cubism-art-operation-video-discourse.md` | 2026-09-23 | 26-min video discourse: Cubism as an Art Operation — what the records show and don't; Picasso/Braque procedures undocumented; software-dev logging best practices imported; the independent-researcher's publication paradox |
+| `2026-09-23-1400-video-discourses-treasure-open-source-artist.md` | 2026-09-23 | Two walk-and-talk video discourses (Picasso/Braque procedures undocumented; the "Treasure" archive analogy; Open Source Artist coinage); first published to Instagram as a Reel |
+| `2026-09-23-1000-logging-infrastructure-goes-live.md` | 2026-09-23 | Logging infrastructure goes live on GitHub: 6 refcards uploaded, index.md rows added, studio-logs batch uploaded, spec placed, dead link fixed, upload protocol established |
+| `2026-09-23-0830-art-ops-ecosystem-documentability.md` | 2026-09-23 | RQ-2026-014→017, ArtOps Ecosystem doc, Picasso/Warhol documentation comparison, non-monotonic documentability thesis, 12-folder Research registry snapshot |
+| `2026-09-23-0130-cubism-studies-pdf-readthrough.md` | 2026-09-23 | Cubism Studies PDF (2002–2003 notes) read-through; structure mapped; gleanables cataloged per instrument; 2002–2003 "Metaphysic of Art Movements" provenance finding |
+| `2026-09-23-0000-whatiscubism-scaffold.md` | 2026-09-23 | WhatIsCubism repo scaffold build (README, schema, 13 audit cards, positions map, timelines, bibliography) |
+| `2026-09-22-2000-art-operation-schema-audit-apparatus.md` | 2026-09-22 | Art Operation Schema v0.1, evidence-audit + positions-map instrument, RQ-2026-013 |
