@@ -61,7 +61,7 @@ A channel opened to treat the Art Operation @ The Historiotheque as an optimizat
 2026-10-02 — the website and the public face
 workspace=[lab] × session_type=[publishing]
 
-The site's missing link previews fixed: Open Graph and Twitter Card tags added to all seven pages, and the Historiotheque building image placed in images/ (which also restores the homepage hero) — delivered for redeploy. The Facebook Page now links both historiotheque.ca and alexgagnon.com, with descriptions drafted; the alexgagnon.com description corrects to its actual contents (the art practice and The Historiotheque, ongoing projects, video presentations, two songs from the in-progress DAYBREAK album, digital paintings, a glossary). A Bluesky announcement for historiotheque.ca was drafted — not yet posted; posting is my call.
+The site's missing link previews fixed: Open Graph and Twitter Card tags added to all seven pages, and the Historiotheque building image placed in images/ (which also restores the homepage hero) — delivered for redeploy. The Facebook Page now links both historiotheque.ca and alexgagnon.com, with descriptions drafted; the alexgagnon.com description corrects to its actual contents (the art practice and The Historiotheque, ongoing projects, video presentations, two songs from the in-progress DAYBREAK album, digital paintings, a glossary). A Bluesky announcement for historiotheque.ca was posted.
 
 ## Decisions
 
