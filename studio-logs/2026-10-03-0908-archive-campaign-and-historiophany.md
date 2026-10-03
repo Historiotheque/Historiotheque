@@ -132,4 +132,3 @@ The conversion workflow: fetch, verify completeness against the article's true e
 - Build the taxonomy of historiophanic experiences, in its channel, when ready.
 - Place the Crackland batch in the clone (eight files).
 - Vigilant mode: decide. OpenTimestamps and repos-citing-one-another: apply when ready.
-- Post the Bluesky announcement, or not — my call.
