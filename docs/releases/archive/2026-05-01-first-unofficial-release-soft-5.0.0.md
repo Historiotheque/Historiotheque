@@ -2,11 +2,11 @@
 
 *By J.G. Dufray · Historiotheque · May 2026 · 6 min read*
 *Source: https://medium.com/historiotheque/first-unofficial-release-of-the-historiotheque-soft-release-v-5-0-0-942125c5a94e*
-*Converted to Markdown 2026-09-20. Images not carried over — marked TODO below.*
+*Converted to Markdown 2026-09-20; images restored 2026-10-03 as links to Medium's CDN.*
 
 *Notes on the Interval: Interrogating Operational Continuity and the Fallow State*
 
-*[Image TODO: "APRIL CONFLUENCE: RENEWAL IN FINE LAYERS" — abstract digital painting by A.G. © 2026. All Rights Reserved.]*
+![“APRIL CONFLUENCE: RENEWAL IN FINE LAYERS”. Abstract digital painting by A.G. © 2026. All Rights Reserved.](https://miro.medium.com/v2/resize:fit:700/1*YhuUfEwROK2WeK3-GOqRIQ.png)
 
 ## I. The Major Update That Never Was.
 
@@ -28,7 +28,7 @@ The thing is, I never did officially launch Semantic Version 4.4.1., which would
 
 Below I go deeper down the rabbit hole to publish for the first time a rough draft that I had been working on in June, 2025, actually, which was meant to be a Major Update, also v.5.0.0.
 
-*[Image TODO: "RESIDUAL ARCHITECTURES: WHAT REMAINS WHEN STRUCTURE FORGETS ITSELF" — abstract digital painting by A.G. © 2026. All Rights Reserved.]*
+![“RESIDUAL ARCHITECTURES: WHAT REMAINS WHEN STRUCTURE FORGETS ITSELF”. Abstract digital painting by A.G. © 2026. All Rights Reserved.](https://miro.medium.com/v2/resize:fit:700/1*1uYFkBD7R4EfXu5kHMlq0A.jpeg)
 
 ## II. What The Previous Deal Was.
 

@@ -2,11 +2,11 @@
 
 *By J.G. Dufray · Historiotheque · May 21, 2026 · 7 min read*
 *Source: https://medium.com/historiotheque/official-release-of-semantic-version-5-0-0-of-the-historiotheque-major-version-3ff3cb62271b*
-*Converted to Markdown 2026-09-20. Images and embedded videos not carried over — marked TODO below.*
+*Converted to Markdown 2026-09-20; images and videos restored 2026-10-03 — images as links to Medium's CDN, videos as clickable thumbnail links.*
 
 *Dismantling the Illusion of Continuous Optimization*
 
-*[Image TODO: "SEASONAL REFLECTIONS: AN ABSTRACT BLOOM OF LIGHT" — abstract digital painting by A.G. © 2026. All Rights Reserved.]*
+![“SEASONAL REFLECTIONS: AN ABSTRACT BLOOM OF LIGHT”. Abstract digital painting by A.G. © 2026. All Rights Reserved.](https://miro.medium.com/v2/resize:fit:700/1*z5xcrnvjFh9Z4C9IC2iOug.jpeg)
 
 *[Assisted by machine intelligence.]*
 
@@ -30,7 +30,7 @@ The lesson of the past year is definitive: we must dismantle the fiction of "sta
 
 Version `5.0.0` drops backward compatibility entirely because the underlying infrastructure had to be completely rebuilt to accommodate this weight. We are no longer patching an old engine; we are running native on an entirely new architecture.
 
-*[Image TODO: "MODULAR, GRID-BASED CARD SYSTEM" — digital photography by A.G. © 2026. All Rights Reserved.]*
+![“MODULAR, GRID-BASED CARD SYSTEM”. Digital photography by A.G. © 2026. All Rights Reserved.](https://miro.medium.com/v2/resize:fit:700/1*HsNmuQAdvBW7s-RPVQexrw.png)
 
 ## II. The History of the Staging Area: From July 2025 to May 2026
 
@@ -56,7 +56,7 @@ This release formally integrates and archives several unpublished, liminal devel
 
 - **Specification:** In alignment with the June 2025 mandate, `v5.0.0` explicitly strips away any hints of the traditional "artistic mystique" and procedural secrecy. The entire documentation engine is optimized for structural transparency. Art operations are treated as reproducible experiments, ensuring that workflow metrics, philosophical research text, and experimental design methodologies are fully decoupled from commercial asset scarcity and rendered open-source for anyone with a web browser.
 
-*[Image TODO: "THE PERSISTENCE OF STATIC: WITHIN THE CHROMATIC DECAY" — abstract digital painting by A.G. © 2026. All Rights Reserved.]*
+![“THE PERSISTENCE OF STATIC: WITHIN THE CHROMATIC DECAY”. Abstract digital painting by A.G. © 2026. All Rights Reserved.](https://miro.medium.com/v2/resize:fit:700/1*PenhwMUucJas4NuFDJ_sVA.png)
 
 ## IV. Detailed Changelog & System Telemetry
 
@@ -91,26 +91,38 @@ The soft launch period is concluded. The infrastructure has done its work. We ar
 
 ## IMPORTANT UPDATE: May 21, 2026 / 01h21
 
-- Here are some videos I made over the last little while as I have been working full-time on my many projects; *[Video embeds TODO: add links]*
+- Here are some videos I made over the last little while as I have been working full-time on my many projects;
 - I have been working hard on my **workspace theory** which has become more and more operational;
 - These videos give you the *tone* of what my most recent work has been; I plan on writing more of these **Important Updates** to fully document what has been worked on since the *First Unofficial Release*, published prior to this *Official Release v5.0.0:*
+[![WHAT IS THE DELTA-WORKSPACE THEORY? (May 11, 2026)](https://img.youtube.com/vi/4LQfyLV0EZg/0.jpg)](https://www.youtube.com/watch?v=4LQfyLV0EZg)
 - As part of my **workspace theory**, I have worked hard on maintaining the *sanctity of the workspace:*
-- In the following video, I went over some of what I had been working on as I created numerous videos, not only on YouTube such as those posted here in this **Important Update**, but also videos published across the Instagram, Threads, and Bluesky platforms/networks: *[Video embeds TODO: add links]*
-- Here I conclude with some recent videos on my Historiomics theory: *[Video embeds TODO: add links]*
+[![SANCTITY IN THE WORKSPACE (May 14, 2026)](https://img.youtube.com/vi/wrg0OisGQN8/0.jpg)](https://www.youtube.com/watch?v=wrg0OisGQN8)
+- In the following video, I went over some of what I had been working on as I created numerous videos, not only on YouTube such as those posted here in this **Important Update**, but also videos published across the Instagram, Threads, and Bluesky platforms/networks:
+[![A DAY IN THE LIFE OF THE ART OPERATION (May 17, 2026)](https://img.youtube.com/vi/1DRx7qdLviQ/0.jpg)](https://www.youtube.com/watch?v=1DRx7qdLviQ)
+- Here I conclude with some recent videos on my Historiomics theory:
+[![WHAT IS HISTORIOMICS?](https://img.youtube.com/vi/_f5s11feTlE/0.jpg)](https://www.youtube.com/watch?v=_f5s11feTlE)
+
+* * *
+
+[![WHAT IS HISTORIOMICS? (PART II)](https://img.youtube.com/vi/sdOr5du3FHU/0.jpg)](https://www.youtube.com/watch?v=sdOr5du3FHU)
 
 ## IMPORTANT UPDATE: May 31, 2026 / 06h26
 
-- I have been profoundly prolific this last short while since this *Official Release of The Historiotheque* was published; Here are some videos that I have made that I include as an *Important Update;* I will be coming back to this shortly, adding content on the nature of the work I've been doing; I just wanted to start the process of documentation here with these videos: *[Video embeds TODO: add links]*
+- I have been profoundly prolific this last short while since this *Official Release of The Historiotheque* was published; Here are some videos that I have made that I include as an *Important Update;* I will be coming back to this shortly, adding content on the nature of the work I've been doing; I just wanted to start the process of documentation here with these videos:
+[![ARCHIVES-LAND: THE GEOMETRY OF HUMAN THOUGHT](https://img.youtube.com/vi/Oi7CsU7Gafw/0.jpg)](https://www.youtube.com/watch?v=Oi7CsU7Gafw)
 - The video above was an experiment in *showing, not telling* the research metdhologies, using the chalkboard; It was done *impromptu*, with some quick preparations beforehand;
 - The following video was made after listening to the previous video and taking notes which I wrote onto Refcards, which I used as framework for th video content itself;
 - I called it an *INTRODUCTION TO THE WORKSPACE,* which is something I wrote about many years ago in one of my first ever *Official Declarations of Production-Year;* I said at the time that the first *Official Act*, if you will, of a given *Production-Yeari,* was the INTRODUCTION TO THE WORKSPACE; more on this and ***workspace management*** in additions to these updates:
+[![ARCHIVES-LAND PART II: INTRODUCTION TO THE WORKSPACE](https://img.youtube.com/vi/abHmwdh8ze4/0.jpg)](https://www.youtube.com/watch?v=abHmwdh8ze4)
+
+* * *
 - Lastly, a snapshot of part of the workspace in its final configuration at the end of a long workday:
 
-*[Image TODO: [WORK_RECORD_31May26a-06h39a] — A.G. © 2026. All Rights Reserved.]*
+![[WORK_RECORD_31May26a-06h39a]. A.G. © 2026. All Rights Reserved.](https://miro.medium.com/v2/resize:fit:633/1*qa7jRG9qWx2NEKUSY4bo3w.png)
 
 - And, for those following me all these years, here I am at the opening of the workday early this morning; As stated above, I will continue to add ***Important Updates to this Official Release*** as I see fit; more actual textual content to come, not just images and videos:
 
-*[Image TODO: "AN EARLY START TO THE WORKDAY" — photograph by A.G. © 2026. All Rights Reserved.]*
+![“AN EARLY START TO THE WORKDAY”. Photograph by A.G. © 2026. All Rights Reserved.](https://miro.medium.com/v2/resize:fit:700/1*yUi8RiacuzT2n8iCAzahww.png)
 
 *Sincerely,*
 
