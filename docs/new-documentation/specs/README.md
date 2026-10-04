@@ -1,23 +1,28 @@
 # Specifications — Index
 
-Versioned specifications of the Historiotheque's documentation instruments.
-Each spec is versioned independently, in full, with the version in the filename.
+This folder holds the Studio Log Format Specification — every version of it
+filed here, in full, with the version in the filename — and its companion
+vocabulary. This index covers this folder only.
 
-## Current specs
+## In this folder
 
-| Spec | Current | Governs |
-|------|---------|---------|
-| [Studio Log Format Specification](studio-log-spec_v1.5.md) | v1.5 | studio session logs |
-| [Design Concept Log Specification](design-concept-log-spec_v1.0.md) | v1.0 | design concept logs |
-| [Artwork Archive Plan](artwork-archive-plan_v1.0.md) | v1.0 | artwork archiving |
-| [GitHub Repository Structure Specification](github-repo-structure-spec_v1.0.md) | v1.0 | repository layout and naming |
-| [Workflows Specification](workflows-spec_v1.0.md) | v1.0 | operation-level workflows |
+| File | Status | Governs |
+|------|--------|---------|
+| [Studio Log Format Specification v1.7](studio-log-spec_v1.7.md) | LIVE — minted 2026-10-04 | studio session logs |
+| [Studio Log Format Specification v1.6](studio-log-spec_v1.6.md) | Superseded by v1.7 — minted 2026-09-30, live until 2026-10-04 | studio session logs |
+| [Studio Log Vocabulary](studio-log-vocabulary.md) | Living document — created 2026-10-04 | the ΔW temp qualia (QoT) used by the spec |
+| [Studio Log Format Specification v1.6 — deliberation draft](studio-log-spec_v1.6-draft_2026-09-29.md) | Superseded draft, retained as evidence of the deliberation | — |
+| [Studio Log Format Specification v1.5](studio-log-spec_v1.5.md) | Superseded by v1.6 | studio session logs |
 
 ## Version history
 
-| Spec | Versions on file |
-|------|------------------|
-| Studio Log Format Specification | v1.0, v1.1, v1.2, v1.3, v1.4, v1.5 |
+| Spec | Versions |
+|------|----------|
+| Studio Log Format Specification | v1.5, v1.6, v1.7 in this folder; v1.0–v1.4 are filed with the earlier documentation set, outside this folder |
+
+Other specifications of the operation — the Design Concept Log Specification,
+the Artwork Archive Plan, the GitHub Repository Structure Specification, the
+Workflows Specification — are filed outside this folder and are not indexed here.
 
 ## Conventions
 
@@ -26,6 +31,8 @@ Each spec is versioned independently, in full, with the version in the filename.
   this index, not in the files. Old versions are retained as evidence of the process.
 - New versions carry a changelog entry at the top of the file and change only what
   the amendment requires: minimal diffs, no back-editing of old versions.
+- The vocabulary is a living document, not a versioned spec: entries are added by
+  date, from ratified logs only, and are never removed.
 
 ## Finding things
 
