@@ -1,17 +1,1 @@
-{
-  "creators": [
-    {
-      "name": "Gagnon, Alex"
-    }
-  ],
-  "description": "The operation root and master index of the Historiotheque — an interdisciplinary art-research practice and archive maintained as cultural software. Official documents, specifications, schemas, projects index, workflows, and master bibliography.",
-  "keywords": [
-    "art-research",
-    "archive",
-    "documentation",
-    "cultural software",
-    "historiotheque"
-  ],
-  "license": "other-closed",
-  "title": "Historiotheque/Historiotheque"
-}
+{"creators":[{"name":"Gagnon, Alex","orcid":"0000-0001-7752-0248"}],"description":"The operation root of the Historiotheque — an interdisciplinary art-research practice and archive maintained as cultural software. The Source repository: CONSTITUTION.md, studio logs, governance, official documents and the Official Releases archive (2016–2026), specifications, schemas, workflows, and the projects index.","keywords":["art-research","archive","documentation","cultural software","cultural devops","historiotheque"],"license":"other-closed","title":"Historiotheque/Historiotheque"}
