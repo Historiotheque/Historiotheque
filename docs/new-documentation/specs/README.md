@@ -1,8 +1,8 @@
 # Specifications — Index
 
 This folder holds the Studio Log Format Specification — every version of it
-filed here, in full, with the version in the filename — and its companion
-vocabulary. This index covers this folder only.
+filed here, in full, with the version in the filename — its companion
+vocabulary, and the Procedural Study Format. This index covers this folder only.
 
 ## In this folder
 
@@ -11,6 +11,7 @@ vocabulary. This index covers this folder only.
 | [Studio Log Format Specification v1.7](studio-log-spec_v1.7.md) | LIVE — minted 2026-10-04 | studio session logs |
 | [Studio Log Format Specification v1.6](studio-log-spec_v1.6.md) | Superseded by v1.7 — minted 2026-09-30, live until 2026-10-04 | studio session logs |
 | [Studio Log Vocabulary](studio-log-vocabulary.md) | Living document — created 2026-10-04 | the ΔW temp qualia (QoT) used by the spec |
+| [Procedural Study Format v1.0.0](procedural-study-format_v1.0.0.md) | LIVE — minted 2026-10-08 | procedural studies |
 | [Studio Log Format Specification v1.6 — deliberation draft](studio-log-spec_v1.6-draft_2026-09-29.md) | Superseded draft, retained as evidence of the deliberation | — |
 | [Studio Log Format Specification v1.5](studio-log-spec_v1.5.md) | Superseded by v1.6 | studio session logs |
 
@@ -19,6 +20,7 @@ vocabulary. This index covers this folder only.
 | Spec | Versions |
 |------|----------|
 | Studio Log Format Specification | v1.5, v1.6, v1.7 in this folder; v1.0–v1.4 are filed with the earlier documentation set, outside this folder |
+| Procedural Study Format | v1.0.0 in this folder |
 
 Other specifications of the operation — the Design Concept Log Specification,
 the Artwork Archive Plan, the GitHub Repository Structure Specification, the
