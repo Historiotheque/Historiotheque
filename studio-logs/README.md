@@ -6,7 +6,7 @@ live in that project's own `studio-logs/` (e.g. `WhatIsCubism/studio-logs/`).
 
 ## Spec
 
-Format follows [studio-log-spec_v1.7.md](../new-documentation/specs/studio-log-spec_v1.7.md): one file per
+Format follows [studio-log-spec_v1.8.md](../new-documentation/specs/studio-log-spec_v1.8.md): one file per
 entry, named `YYYY-MM-DD-HHMM-<slug>.md` (24h local time; the filename time is the entry's
 drafting time), YAML frontmatter, fixed section order. An entry may span several work
 sessions — the frontmatter `sessions:` list records them. `Decisions` and `Next actions`
