@@ -15,10 +15,10 @@ This spec governs Official Releases of the practice only. **Repo releases** — 
 
 Every Official Release exists in two forms:
 
-- **Full text** — the canonical version, in the author's voice, as published externally. Lives in `docs/releases/archive/`.
-- **Reader summary** — a condensed summary of the main points, for readers browsing the repository. Lives in `docs/releases/`.
+- **Full text** — the canonical version, in the author's voice, as published externally. Lives in `releases/archive/`.
+- **Reader summary** — a condensed summary of the main points, for readers browsing the repository. Lives in `releases/`.
 
-Both forms share the same filename (`official-release-X.Y.Z.md`); the folder tells you which form you are reading. The folder READMEs explain the distinction.
+The full texts live in `releases/archive/`, under their published names (`official-release-X.Y.Z.md`, some with a date prefix). Reader summaries live in `releases/`, each named for its release's date and marked `-summary` (`YYYY-MM-DD-official-release-X.Y.Z-summary.md`), so the filename itself names the form. The folder READMEs explain the distinction.
 
 ## 3. Versioning
 
@@ -46,8 +46,8 @@ First person. The Official Release is the operator speaking about the operation.
 
 ## 6. Placement and naming
 
-- Summaries: `docs/releases/official-release-X.Y.Z.md`
-- Full texts: `docs/releases/archive/official-release-X.Y.Z.md`
+- Summaries: `releases/YYYY-MM-DD-official-release-X.Y.Z-summary.md` (the date is the release's date; the `-summary` suffix marks the form)
+- Full texts: `releases/archive/official-release-X.Y.Z.md`
 
 Past releases published before this spec are marked as reconstructed, per the reconstruction-marking rule: every reconstructed file carries at least one line stating that it was reconstructed, with the date and sources where known. (Wording of the folder-level note is provisional — to be confirmed.)
 
