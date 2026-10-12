@@ -32,6 +32,7 @@ Reader summaries — the full texts of past releases live in `archive/`, under t
 - [v4.3.1 — April 16, 2025](2025-04-16-official-release-4.3.1-summary.md) — the productive season running since November 2024, and the concepts it produced: Historionautics, Historiotronics, Chronotronics, and HISTORIOPHANY.
 - [First Unofficial Release (Soft v5.0.0) — May 1, 2026](2026-05-01-first-unofficial-release-soft-5.0.0-summary.md) — the bridge document between the 4.x line and the anticipated Major Version 5.0.0.
 - [v5.0.0 — May 21, 2026](2026-05-21-official-release-5.0.0-summary.md) — MAJOR VERSION: the post-mortem and architectural overhaul that breaks backward compatibility.
+- [v5.1.0 — July 3, 2026](2026-07-03-official-release-5.1.0-summary.md) — MINOR VERSION: the Spring Retrospective of eight video discourses, Atmospherics Theory and the Atmospheric Tone project, four new projects, and a dated changelog.
 - [v5.2.0 — October 9, 2026](2026-10-09-official-release-5.2.0-summary.md) — MINOR VERSION: formalization and streamlining on the 5.0.0 architecture, and the closing of the Art Operation's own version bookkeeping.
 
 The rules governing these documents are in `official-release-spec_v1.0.md`.
