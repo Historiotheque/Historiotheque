@@ -23,6 +23,7 @@ Reader summaries — the full texts of past releases live in `archive/`, under t
 - [v2.0.2 — September 17, 2016](2016-09-17-official-release-2.0.2-summary.md) — the v2.0.2 rebuild and relaunch of the workspace.
 - [v2.0.3 — December 21, 2016](2016-12-21-official-release-2.0.3-summary.md) — the release of v2.0.3 after the breakdown of operations that ended v2.0.2.
 - [v3.0.1 — December 29, 2016](2016-12-29-official-release-3.0.1-summary.md) — v3.0.1 declared stable, and the operation placed on sabbatical.
+- [v3.0.2 — March 5, 2023](2023-03-05-official-release-3.0.2-summary.md) — The Rebirth of The Historiotheque: the relaunch after the six-year sabbatical that followed v3.0.1.
 - [v3.0.3 — August 11, 2023](2023-08-11-official-release-3.0.3-summary.md) — the v3.0.3 run of August 2023, its closing, and the declarations cycle around it.
 - [v3.0.4 — November 22, 2023](2023-11-22-official-release-3.0.4-summary.md) — the relaunch and subsequent closing down of v3.0.4, and the build-up / bring-down method it explains.
 - [v3.0.5 — May 1, 2024](2024-05-01-official-release-3.0.5-summary.md) — the preliminary launch of v3.0.5 after a fallow period, and its total shutdown two days later.
