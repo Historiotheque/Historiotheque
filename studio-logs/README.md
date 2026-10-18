@@ -4,6 +4,8 @@ Master log location for the Historiotheque operation. Cross-project research,
 discourse, and documentation sessions live here. Sessions belonging to a single project
 live in that project's own `studio-logs/` (e.g. `WhatIsCubism/studio-logs/`).
 
+The machine-readable stream lives beside this folder: [work-system-logs/](../work-system-logs/) — a separate, complementary log series under its own spec, the Work-System Log Spec. The two streams cite one another by timestamp and record id.
+
 ## Spec
 
 Format follows [studio-log-spec_v1.8.md](https://github.com/Historiotheque/Historiotheque/blob/main/docs/new-documentation/specs/studio-log-spec_v1.8.md): one file per

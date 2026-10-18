@@ -1,0 +1,226 @@
+{
+ "core_principles": [
+  "Append-only: a line is never edited. A correction is a NEW record with event=correction that supersedes an earlier id. This is the no-backfill doctrine in machine form.",
+  "Two separate streams, .MD and .JSONL, complementary - neither is the source or the rendering of the other. They interlock by timestamps, by shared vocabularies, by citable record ids, and by the same qualitative content. (Settled in the logging deliberation of 2026-10-17, 23:02-23:36 EDT; this replaces the proposal's one-source principle.)",
+  "Distributed: each repo, workspace or channel may keep its own shard (its own .jsonl file) under this same schema. Shards merge by id and ts; no central file is required.",
+  "Qualitative first: the lived reading (summary, qualia, aesthetic problem/solution) is in the operator's first person. Numbers live only in the optional derived block and are labelled as derived - they support a reading, they never replace it.",
+  "Provenance on every record: what the time rests on, what sources were used, and which commit / file / refcard the event touches."
+ ],
+ "date": "2026-10-18",
+ "dictionaries": {
+  "_what": "Separate versioned dictionary files. Records stay compact; dictionaries carry the definitions. A dictionary is itself append-only JSONL: a term is added by a record, superseded by a later record, never edited.",
+  "aesthetic_problems": "problem_id, statement, opened_in (record id), status (open | solved | abandoned), solved_in (record id or null)",
+  "event_types_proposed": [
+   "session_started",
+   "session_continued",
+   "session_ended",
+   "switch",
+   "work_act",
+   "reading",
+   "listening",
+   "deliberation",
+   "decision",
+   "aesthetic_problem_opened",
+   "elegant_solution",
+   "refcard_created",
+   "refcard_moved",
+   "file_created",
+   "publishing",
+   "commit_linked",
+   "snapshot",
+   "correction",
+   "encounter",
+   "rest",
+   "audit_completed"
+  ],
+  "projects": "project slugs as already used in frontmatter",
+  "qualia": "QoT adjectives; each entry: term, definition in Alex's work terms, introduced (date), first_used (record id / context), status (proposed | adopted)",
+  "session_types": "existing controlled vocabulary, carried over unchanged",
+  "workspaces": "existing controlled vocabulary, carried over unchanged"
+ },
+ "format": "NDJSON / JSONL: one JSON object per line, no pretty-printing, no literal newlines inside a record, append-only",
+ "open_decisions_for_alex": [
+  "One shard file per repo/workspace, or session files (like the first official log, one evening file with per-record shard tags) merged at snapshot time? Alpha practice: session files.",
+  "Does temperature_vector appear per segment, per snapshot only, or both?",
+  "Which event types from the list survive, in his words?",
+  "Does record_hash return in beta, or does the prev_hash chain plus git suffice?"
+ ],
+ "optional_blocks": {
+  "aesthetic": {
+   "_what": "The aesthetic operation, logged as data: problems and their elegant solutions carry provenance like anything else.",
+   "discarded": [
+    "alternatives considered and set aside, with the reason in one phrase"
+   ],
+   "elegance": "why this solution is elegant, in qualitative terms",
+   "problem": "the aesthetic problem as stated by the operator",
+   "problem_id": "stable id, e.g. ap-2026-014, so a solution months later can link back",
+   "solution": "the elegant solution, when found (may be in a later record)",
+   "tension": "what makes it a problem - the friction, the unresolved pull"
+  },
+  "context": {
+   "channel": "where the work happened, if a channel",
+   "place": "free qualitative place note, e.g. in the field (a place note can qualify a workspace, by the operator's ruling)",
+   "project": "list of project slugs",
+   "session_type": "list, the verb: [research, discourse, publishing, reading, composing, painting, ...] - orthogonal to workspace; workspace x session_type = the active space",
+   "stream": "list: [image, sound, text] - code is text unless Alex rules otherwise",
+   "workspace": "list, the place: [studio, lab, field, cemetery, ...] - open vocabulary, extend by proposal only"
+  },
+  "delta": {
+   "added": [
+    {
+     "kind": "file | refcard | concept | artifact | decision",
+     "ref": "path, slug or id"
+    }
+   ],
+   "modified": [
+    {
+     "kind": "file",
+     "ref": "path"
+    }
+   ],
+   "moved": [
+    {
+     "from": "path or place",
+     "to": "path or place"
+    }
+   ],
+   "removed": [
+    {
+     "kind": "file | term",
+     "ref": "path or term"
+    }
+   ],
+   "summary": "one line, first person, the appreciable change - what is new, moved, gone"
+  },
+  "derived": {
+   "_what": "OPTIONAL, machine-computed only, always labelled derived: counts that support a temperature reading (messages in window, commits, repos touched, switches). Never presented as the experience itself - the record is not the experience.",
+   "example_keys": [
+    "messages_in_window",
+    "commits_in_window",
+    "repos_touched",
+    "distinct_projects",
+    "switches"
+   ]
+  },
+  "properties": "event-specific bag, different keys per event type - exactly as in analytics JSONL. Variability here is normal and is why this is JSONL, not CSV.",
+  "provenance": {
+   "artifacts": [
+    {
+     "ref": "path or DOI or URL",
+     "sha256": "file hash when relevant"
+    }
+   ],
+   "commit": {
+    "hash": "full commit hash from the real version history",
+    "parent": "parent hash or null",
+    "repo": "repo name"
+   },
+   "prev_hash": "sha256 of the previous line exactly as written - the hash chain that makes the append-only ledger tamper-evident",
+   "record_hash": "OMITTED in alpha: integrity is carried by the next record's prev_hash (the chain) and by the git history. Whether record_hash returns is a beta decision.",
+   "sources": [
+    "chat: <channel>",
+    "file timestamps",
+    "operator report",
+    "refcard: <id>"
+   ]
+  },
+  "snapshot": {
+   "_what": "Only on event=snapshot. The snapshot freezes the whole surface at departure (snapshot doctrine).",
+   "covers_from": "ISO 8601",
+   "covers_to": "ISO 8601",
+   "state_vector": {
+    "<workspace or project>": {
+     "at_hand": [
+      "refcards / artifacts in proximity"
+     ],
+     "delta_w_temp": {
+      "qualia": [
+       "..."
+      ]
+     },
+     "last_commit": "hash or null",
+     "last_event_id": "id",
+     "open_problems": [
+      "ap-..."
+     ]
+    }
+   },
+   "unrecorded": "what the operator knows happened off-record - named honestly instead of reconstructed silently"
+  },
+  "span": {
+   "ends_at": "ISO 8601 or null while open",
+   "starts_at": "ISO 8601",
+   "time_basis": "channel timestamps | file timestamps | commit timestamps | operator report - REQUIRED whenever a span is stated (time-honesty rule)"
+  },
+  "temperature_vector": {
+   "_what": "Delta-W temperature as a VECTOR, not a scalar: one qualitative reading per workspace / project dimension, so a snapshot can render the whole surface at once (tonal cinema). No numbers required.",
+   "by_project": {
+    "<project-slug>": {
+     "qualia": [
+      "..."
+     ]
+    }
+   },
+   "by_workspace": {
+    "field": {
+     "qualia": [
+      "..."
+     ]
+    },
+    "lab": {
+     "qualia": [
+      "..."
+     ]
+    }
+   },
+   "delta_w_temp": {
+    "basis": "declared | derived | hybrid",
+    "derivation_sources": [
+     "chat activity",
+     "commits",
+     "frontmatter across the window",
+     "refcards",
+     "operator report"
+    ],
+    "hue": "null, or a hue-word in Alex's own idiom only when he ratifies one",
+    "qualia": [
+     "exactly 3 QoT adjectives, from dictionaries/qualia"
+    ]
+   }
+  },
+  "links": {
+   "_what": "How this record connects to the prose record: Interzone entries by timestamp, studio logs and novel logs by file, with the relation named. This block carries the interoperation between the .jsonl stream and the .md streams.",
+   "interzone": [
+    "entry timestamps, e.g. 2026-10-17 19:56 EDT"
+   ],
+   "md_logs": [
+    {
+     "kind": "studio_log | novel_log",
+     "ref": "file path or null while the log is unwritten",
+     "relation": "how the record and the log stand to one another"
+    }
+   ]
+  },
+  "time": {
+   "_what": "Required when ts is null: the honest statement of the time at the precision the record actually supports (time-honesty rule).",
+   "qualitative": "e.g. evening",
+   "precision": "evening | day | span",
+   "basis": "what the stated precision rests on"
+  }
+ },
+ "required_envelope": {
+  "actor": "operator | archivillus | system - who performed the act, not who narrated the rendering",
+  "event": "event type, from dictionaries/event_types (see dictionaries below)",
+  "id": "unique record id (ULID preferred: sortable by time), never reused",
+  "recorded_at": "when the record was written - may differ from ts for analog / off-computer work",
+  "seq": "integer, position in this shard only, strictly increasing",
+  "session_id": "the working stretch this belongs to; a pause of about 60 minutes on the same subject does not split a session",
+  "shard": "origin of this file, e.g. historiotheque, experimental-novel, field, main",
+  "ts": "when the event happened, ISO 8601 with local offset, e.g. 2026-10-17T23:02:00-04:00",
+  "tz": "America/Toronto",
+  "v": "schema version of this record, e.g. 1"
+ },
+ "schema": "work-system-log",
+ "status": "ALPHA - adopted for the first official log, 2026-10-18. Supersedes the 2026-10-17 proposal for working use; the proposal file stands as the dated record of the proposal.",
+ "version": "0.1.0-alpha"
+}
