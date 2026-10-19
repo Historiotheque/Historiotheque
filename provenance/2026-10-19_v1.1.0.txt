@@ -1,0 +1,11 @@
+Historiotheque — release v1.1.0
+
+repo:    Historiotheque/Historiotheque
+release: v1.1.0 — Constitution, studio logs, governance, and the Official Releases archive
+tag:     v1.1.0
+commit:  058730578d52d28a1f89e2691b06e6b1046b878c
+subject: Update Zenodo metadata: ORCID + refreshed description
+zenodo:  https://doi.org/10.5281/zenodo.23245069
+
+stamped: 2026-10-19
+proof:   2026-10-19_v1.1.0.txt.ots — an OpenTimestamps proof, in this same folder.
