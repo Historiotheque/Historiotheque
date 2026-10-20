@@ -18,3 +18,9 @@ supersedes an earlier one.
 
 First official log: `work-system-log_2026-10-17_evening.jsonl`
 (9 records, 2026-10-17 evening; hash chain verified at adoption).
+
+Second log: `work-system-log_2026-10-18_to_2026-10-20.jsonl`
+(14 records, 2026-10-18 → 2026-10-20; its first record chained to the
+evening log's last line, the chain verified unbroken across both
+files. It closes with appended superseding records — the status
+confirmations, the movement-only decision, and a fresh snapshot.)
