@@ -24,3 +24,9 @@ Second log: `work-system-log_2026-10-18_to_2026-10-20.jsonl`
 evening log's last line, the chain verified unbroken across both
 files. It closes with appended superseding records — the status
 confirmations, the movement-only decision, and a fresh snapshot.)
+
+Third log: `work-system-log_2026-10-20_to_2026-10-28.jsonl`
+(42 records, 2026-10-20 → 2026-10-28; its first record chained to the
+second log's last line, the chain verified unbroken across all three
+files. Main points of the work channels only; it closes with a
+snapshot.)
