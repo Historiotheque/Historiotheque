@@ -1,6 +1,6 @@
 # Workspace Theory: Axioms and Consequences
 
-**Version 1.0.0 — 2026-10-04**
+**Version 1.0.1 (corrected draft) — 2026-11-08**
 Alex Gagnon (A.G.)
 The Historiotheque · New Documentation
 
@@ -64,7 +64,7 @@ Five terms are pointed at, not defined. The axioms fix their meaning by use.
 
 **C8 — Disorder (patina)** (A10 + C6 + C7): disorder creeps in, always — its visible form is patina: the decay, disorganization, and disaggregation of things in the world, the entropy the workspace's syntropy works against. Disorder is trackable. It is read in the irregularity of the deltas — the changes are not always regular; there is harmony and disharmony in the work, consonance and dissonance — and in the **work stress** of the configuration: the workspace is elastic, always moving, and stress is its compression, read alongside the temperature. Disorder is also what makes complexity expensive: maintaining a level of operation costs time and space resources to keep track of its states, and as the state-load grows, so does the liability to collapse (C7).
 
-**C9 — Attunement** (A10 + C2): not all equilibrium is collabrium. Collabrium (C6) is equilibrium *within* — differentials gone. Attunement is equilibrium *between*: the workspace's inner weather system in balanced exchange with the conditions outside its envelope — flows maintained, not stopped. The concept is developed in the Metaphysics of Art Movements (2002–2003); its case there is literary modernism — the writing of Virginia Woolf as a projection of the inner workspace communicating with the outside world — and its failed case is the hermetically sealed workshop, where the exchange fails. At the between-equilibrium, the work is at its best and most representative of the times being lived — because the workspace temperature is then a true reading of the world's temperature, registered and answered, not an expression of ideas.
+**C9 — Attunement** (A10 + C2): not all equilibrium is collabrium. Collabrium (C6) is equilibrium *within* — differentials gone. Attunement is equilibrium *between*: the workspace's inner weather system in balanced exchange with the conditions outside its envelope — flows maintained, not stopped. Its case is literary modernism — the writing of Virginia Woolf as a projection of the inner workspace communicating with the outside world — and its failed case is the hermetically sealed workshop, where the exchange fails. At the between-equilibrium, the work is at its best and most representative of the times being lived — because the workspace temperature is then a true reading of the world's temperature, registered and answered, not an expression of ideas.
 
 ## The Consequence of Consequences
 
